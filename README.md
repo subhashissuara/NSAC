@@ -1,2 +1,2 @@
 # NasaSpaceAppsChallenge
-App for hackathon
+Project for hackathon
